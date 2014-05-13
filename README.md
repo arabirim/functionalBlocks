@@ -13,7 +13,6 @@ Example
 ================
 
 <pre>
-
-   <link type="text/css" rel="stylesheet" href="library/css/functionalBlocks.css"/>
-    <script src="library/js/functionalBlocks.js"/></script/>
+   &lt;link type="text/css" rel="stylesheet" href="library/css/functionalBlocks.css"/&gt;
+   &lt;script src="library/js/functionalBlocks.js"/&gt;&lt;/script/&gt;
 </pre>
