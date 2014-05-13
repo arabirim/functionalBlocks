@@ -1,7 +1,9 @@
-functionalBlocks v1.0 Demo
+functionalBlocks v1.0 
 ================
 
-functionalBlocks  http://plugins.arabirim.com.tr/functionalBlocks/
+Demo  http://plugins.arabirim.com.tr/functionalBlocks/
+
+http://www.aycan.net/functionalblocks/
 
 How to use
 ================
