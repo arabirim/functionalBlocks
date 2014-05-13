@@ -1,0 +1,88 @@
+html, body {
+    height: 100%;
+}
+
+.h100, .headerBlock, .headerClone {
+    transition: all 0.2s ease-in-out;
+}
+
+.headerBlock {
+    /* required */
+    height: 40px;
+    z-index: 2;
+    overflow: hidden;
+    position: relative;
+    /* not required */
+    background: #000;
+    font-size: 30px;
+    text-align: center;
+    color: #fff;
+}
+
+.headerClone {
+    height: 40px;
+}
+
+.leftBlock {
+    /* required */
+    width: 200px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    overflow: hidden;
+    /* not required */
+    background: #945C87;
+    font-size: 70px;
+    text-align: center;
+    color: #fff;
+}
+
+.contentBlock {
+    background: #DECE66;
+    margin: -40px 200px 0 200px;
+    min-height: 100%;
+    height: auto !important;
+    height: 100%;
+}
+
+.rightBlock {
+    /* required */
+    width: 200px;
+    overflow: hidden;
+    display: inline-block;
+    position: absolute;
+    right: 0;
+    top: 0;
+    /* not required */
+    background: #7D2D56;
+    font-size: 70px;
+    text-align: center;
+    color: #fff;
+}
+
+body.leftHidden .leftBlock, body.rightHidden .rightBlock {
+    width: 0;
+}
+
+body.leftHidden .contentBlock {
+    margin-left: 0;
+}
+
+body.rightHidden .contentBlock {
+    margin-right: 0;
+}
+
+body.headerHidden .leftBlock,
+body.headerHidden .rightBlock {
+    top: 0;
+}
+
+body.headerHidden .contentBlock {
+    margin-top: 0;
+}
+
+body.headerHidden .headerBlock,
+body.headerHidden .headerClone,
+body.leftHidden.rightHidden.headerHidden .headerClone {
+    height: 0;
+}
