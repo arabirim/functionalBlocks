@@ -1,4 +1,4 @@
-functionalBlocks v1.0
+functionalBlocks v1.0 Demo
 ================
 
 functionalBlocks  http://plugins.arabirim.com.tr/functionalBlocks/
