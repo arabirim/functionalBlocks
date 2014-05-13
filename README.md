@@ -20,19 +20,19 @@ Example
 </pre>
 <h4>@html objects</h4>
 <pre>
-&lt;div class="headerBlock"&gt; Header &lt;/div&gt;
-&lt;div class="leftBlock h100"&gt;
-    &lt;div class="headerClone"&gt;&lt;/div&gt;
-    Left
-&lt;/div&gt;
-
-&lt;div class="contentBlock h100"&gt;
-    &lt;div class="headerClone"&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="rightBlock h100"&gt;
-    &lt;div class="headerClone"&gt;&lt;/div&gt;
-    Right
-&lt;/div&gt;
+   &lt;div class="headerBlock"&gt; Header &lt;/div&gt;
+   &lt;div class="leftBlock h100"&gt;
+       &lt;div class="headerClone"&gt;&lt;/div&gt;
+       Left
+   &lt;/div&gt;
+   
+   &lt;div class="contentBlock h100"&gt;
+       &lt;div class="headerClone"&gt;&lt;/div&gt;
+   &lt;/div&gt;
+   &lt;div class="rightBlock h100"&gt;
+       &lt;div class="headerClone"&gt;&lt;/div&gt;
+       Right
+   &lt;/div&gt;
 </pre>
 
 <h4>@trigger</h4>
