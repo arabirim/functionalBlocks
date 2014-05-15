@@ -1,16 +1,15 @@
 functionalBlocks v1.0 
 ================
 
-All Blocks  http://plugins.arabirim.com.tr/functionalBlocks/
+All Blocks   http://plugins.arabirim.com.tr/functionalBlocks/
 
-Left Block http://plugins.arabirim.com.tr/functionalBlocks/leftBlock.html
+Left Block   http://plugins.arabirim.com.tr/functionalBlocks/leftBlock.html
 
-Right Block http://plugins.arabirim.com.tr/functionalBlocks/rightBlock.html
+Right Block  http://plugins.arabirim.com.tr/functionalBlocks/rightBlock.html
  
 Header Block http://plugins.arabirim.com.tr/functionalBlocks/headerBlock.html
 
-
-http://www.aycan.net/functionalblocks/
+Blog         http://www.aycan.net/functionalblocks/
 
 How to use
 ================
